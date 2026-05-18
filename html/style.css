@@ -1,0 +1,21 @@
+.b {
+    width: 90%;
+    margin: auto;
+    border: 3px solid green;
+    height: 100px;
+    align-items: center;
+    display: flex;
+}
+.c {
+    width: 100px;
+    height: 90px;
+}
+.d {
+    
+    margin-left: 200px;
+}
+img {
+    width: 500px;
+    height: 500px;
+    margin-left: 70px;
+}
